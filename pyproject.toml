@@ -9,6 +9,8 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
   "roskarl>=2.3.4",
+  "polars==1.37.1",
+  "pyodbc==5.1.0",
 ]
 classifiers = [
   "Programming Language :: Python :: 3",
