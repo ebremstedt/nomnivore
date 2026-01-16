@@ -12,6 +12,7 @@ dependencies = [
   "polars==1.37.1",
   "pyodbc==5.1.0",
   "paramiko==4.0.0",
+  "xmltodict==1.0.2",
 ]
 classifiers = [
   "Programming Language :: Python :: 3",
